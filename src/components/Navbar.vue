@@ -1,5 +1,5 @@
 <template>
-  <div id="navbar" class="bg-white px-6 py-4">
+  <div id="navbar" class="fixed top-0 w-full shadow bg-white px-10 py-4">
     <div class="flex items-center justify-between">
       <div>
         <div class="flex items-center">
@@ -7,7 +7,7 @@
             <span class="material-icons text-gray-600">menu</span>
           </button>
           <svg
-            class="w-20 mx-6"
+            class="w-24 mx-6"
             xmlns="http://www.w3.org/2000/svg"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             viewBox="0 0 492 110"
