@@ -1,5 +1,5 @@
 <template>
-  <div id="navbar" class="fixed top-0 w-full shadow bg-white px-10 py-4">
+  <div id="navbar" class="fixed top-0 w-full shadow-sm bg-white px-10 py-4">
     <div class="flex items-center justify-between">
       <div>
         <div class="flex items-center">

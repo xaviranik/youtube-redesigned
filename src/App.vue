@@ -28,6 +28,7 @@ export default {
 
 body {
   @apply bg-gray-100;
+  @apply antialiased;
 }
 
 /* Scrollbar Styles */

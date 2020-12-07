@@ -1,7 +1,7 @@
 <template>
   <div
     id="main"
-    class="grid grid-cols-12 gap-4 min-h-screen h-screen overflow-y-hidden"
+    class="grid grid-cols-12 min-h-screen h-screen overflow-y-hidden"
   >
     <Sidebar />
     <HomeContent />

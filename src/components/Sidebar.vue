@@ -1,7 +1,7 @@
 <template>
   <div
     id="sidebar"
-    class="col-span-2 flex flex-col justify-between pt-20 bg-white overflow-y-hidden hover:overflow-y-auto"
+    class="col-span-2 flex flex-col justify-start pt-20 bg-white shadow-sm overflow-y-hidden hover:overflow-y-auto"
   >
     <div>
       <!-- Top Section -->
