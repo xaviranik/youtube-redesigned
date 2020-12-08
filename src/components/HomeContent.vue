@@ -32,7 +32,7 @@ export default {
           title:
             "What If Earth got Kicked Out of the Solar System? Rogue Earth",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
+            "https://images.unsplash.com/photo-1607140110438-7a17d182deee?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
           avatar: "https://i.pravatar.cc/300?id=1",
           user: "Kurzgesagt – In a Nutshell",
           view: "1.2M",
@@ -41,7 +41,7 @@ export default {
         {
           title: "TIMELAPSE OF THE FUTURE: A Journey to the End of Time (4K)",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
+            "https://images.unsplash.com/photo-1593642532842-98d0fd5ebc1a?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
           avatar: "https://i.pravatar.cc/300?id=57",
           user: "melodysheep",
           view: "7.1M",

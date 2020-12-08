@@ -2,12 +2,15 @@
   <div
     class="col-span-1 bg-white border rounded-lg overflow-hidden cursor-pointer"
   >
-    <img
-      class="object-cover h-78"
-      loading="lazy"
-      :src="video.thumbnail"
-      alt="img"
-    />
+    <div class="relative bg-red-500 pb-2/3">
+      <img
+        class="absolute top-0 object-cover w-full h-full"
+        loading="lazy"
+        :src="video.thumbnail"
+        alt="img"
+      />
+    </div>
+
     <div class="flex items-start p-4">
       <img class="w-10 rounded-full" :src="video.avatar" alt="avatar" />
       <div class="ml-4">
