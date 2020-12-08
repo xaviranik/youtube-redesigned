@@ -22,7 +22,7 @@ export default {
         {
           title: "Designing with Tailwind CSS: Structuring a Basic Card",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
+            "https://images.unsplash.com/photo-1452697620382-f6543ead73b5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
           avatar: "https://i.pravatar.cc/300?id=52",
           user: "Adam Wathan",
           view: "2.4M",
@@ -30,7 +30,7 @@ export default {
         },
         {
           title:
-            "What If Earth got Kicked Out of the Solar System? Rogue Earth",
+            "What If Earth got Kicked Out of the Solar System? Rogue Earth What If Earth got Kicked Out of the Solar System? Rogue Earth",
           thumbnail:
             "https://images.unsplash.com/photo-1607140110438-7a17d182deee?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
           avatar: "https://i.pravatar.cc/300?id=1",
@@ -50,7 +50,7 @@ export default {
         {
           title: "Maroon 5 - Sugar (Official Music Video)",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
+            "https://images.unsplash.com/photo-1534361960057-19889db9621e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
           avatar: "https://i.pravatar.cc/300?id=11",
           user: "Maroon 5",
           view: "3.3B",
@@ -60,7 +60,7 @@ export default {
           title:
             "What If Earth got Kicked Out of the Solar System? Rogue Earth",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
+            "https://images.unsplash.com/photo-1443916568596-df5a58c445e9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
           avatar: "https://i.pravatar.cc/300?id=18",
           user: "Kurzgesagt – In a Nutshell",
           view: "1.2M",
@@ -69,7 +69,7 @@ export default {
         {
           title: "Winter Chicken Recipes To Keep You Warm | Gordon Ramsay",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
+            "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1323&q=80",
           avatar: "https://i.pravatar.cc/300?id=22",
           user: "Gordon Ramsay",
           view: "741k",
@@ -79,7 +79,7 @@ export default {
           title:
             "Cat Vibing To Ievan Polkka (Official Video HD) Cat Vibing To Music",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
+            "https://images.unsplash.com/photo-1466193341027-56e68017ee2d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
           avatar: "https://i.pravatar.cc/300?id=32",
           user: "Bilal Göregen",
           view: "1.9M",
@@ -88,8 +88,8 @@ export default {
         {
           title: "Marshmello ft. Bastille - Happier (Official Music Video)",
           thumbnail:
-            "https://i.pinimg.com/originals/3c/9e/50/3c9e50020395f447932c74788293bc2a.jpg",
-          avatar: "https://i.pravatar.cc/300?id=32",
+            "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+          avatar: "https://i.pravatar.cc/300?id=48",
           user: "Marshmello",
           view: "7.1M",
           dateCreated: "1 months ago",
