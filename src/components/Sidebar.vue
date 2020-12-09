@@ -1,7 +1,8 @@
 <template>
   <div
     id="sidebar"
-    class="col-span-2 flex flex-col justify-start pt-20 bg-white shadow-sm overflow-y-hidden hover:overflow-y-auto"
+    class="col-span-2 flex flex-col justify-start pt-20 bg-white shadow-sm overflow-y-hidden z-40 hover:overflow-y-auto"
+    :class="sidebarIsOpen ? 'block' : 'hidden'"
   >
     <div>
       <!-- Top Section -->
@@ -146,8 +147,13 @@
 </template>
 
 <script>
+import { mapGetters } from "vuex";
+
 export default {
   name: "Sidebar",
+  computed: {
+    ...mapGetters(["sidebarIsOpen"]),
+  },
 };
 </script>
 

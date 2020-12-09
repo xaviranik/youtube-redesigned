@@ -1,13 +1,15 @@
 <template>
   <div
     id="navbar"
-    class="fixed top-0 w-full shadow-sm bg-white z-10 px-10 py-4"
+    class="fixed top-0 w-full shadow-sm bg-white z-50 px-10 py-4"
   >
     <div class="flex items-center justify-between">
       <div>
         <div class="flex items-center">
-          <button class="flex focus:outline-none">
-            <span class="material-icons text-gray-600">menu</span>
+          <button @click="toggleSidebar" class="flex focus:outline-none">
+            <span class="material-icons text-gray-600 hover:text-gray-800"
+              >menu</span
+            >
           </button>
           <svg
             class="w-24 mx-6"
@@ -74,7 +76,14 @@
 </template>
 
 <script>
+import { mapActions } from "vuex";
 export default {
   name: "Navbar",
+  methods: {
+    ...mapActions(["toggleSidebar"]),
+    toggleMainSidebar() {
+      this.toggleSidebar;
+    },
+  },
 };
 </script>
