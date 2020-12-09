@@ -1,11 +1,20 @@
 <template>
-  <div class="h-screen bg-red-700"></div>
+  <div id="watch"></div>
 </template>
 
 <script>
-export default {
+  export default {
+    name: 'Watch',
+    methods: {
+      test() {
+        this.$Progress.start();
+      }
+    },
+    created() {
+      this.test();
+    }
+  }
 
-}
 </script>
 
 <style>
