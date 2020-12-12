@@ -110,6 +110,28 @@ export default new Vuex.Store({
         view: "1.2M",
         dateCreated: "1 month ago",
       },
+      {
+        title: "Marshmello ft. Bastille - Happier (Official Music Video)",
+        thumbnail: "https://images.unsplash.com/photo-1468818438311-4bab781ab9b8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+        avatar: "https://i.pravatar.cc/300?id=48",
+        user: "Marshmello",
+        view: "7.1M",
+        dateCreated: "1 months ago",
+      }, {
+        title: "Designing with Tailwind CSS: Structuring a Basic Card",
+        thumbnail: "https://images.unsplash.com/photo-1452697620382-f6543ead73b5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        avatar: "https://i.pravatar.cc/300?id=52",
+        user: "Adam Wathan",
+        view: "2.4M",
+        dateCreated: "2 years ago",
+      }, {
+        title: "What If Earth got Kicked Out of the Solar System? Rogue Earth What If Earth got Kicked Out of the Solar System? Rogue Earth",
+        thumbnail: "https://images.unsplash.com/photo-1607140110438-7a17d182deee?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+        avatar: "https://i.pravatar.cc/300?id=1",
+        user: "Kurzgesagt – In a Nutshell",
+        view: "1.2M",
+        dateCreated: "1 month ago",
+      },
     ],
   },
   getters: {
