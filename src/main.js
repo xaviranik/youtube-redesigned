@@ -13,6 +13,10 @@ Vue.use(VueProgressBar, {
 
 Vue.config.productionTip = false
 
+// Vue video-player
+import VueCoreVideoPlayer from 'vue-core-video-player'
+Vue.use(VueCoreVideoPlayer)
+
 // Tailwind CSS
 import '@/assets/css/tailwind.css'
 
