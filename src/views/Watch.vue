@@ -3,10 +3,11 @@
     <div class="grid grid-cols-12 py-24 px-20 gap-4">
       <div class="col-span-8">
         <div class="h-screen">
-          <vue-core-video-player
-            class="h-2/3"
-            src="https://media.vued.vanthink.cn/sparkle_your_name_am720p.mp4"
-          ></vue-core-video-player>
+          <div class="h-2/3">
+            <vue-core-video-player
+              src="https://media.vued.vanthink.cn/sparkle_your_name_am720p.mp4"
+            ></vue-core-video-player>
+          </div>
           <div class="mt-4 pb-6 pt-4 px-6 rounded-lg bg-white">
             <div>
               <span class="text-sm text-blue-700"
