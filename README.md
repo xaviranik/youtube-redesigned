@@ -1,5 +1,12 @@
 # youtube-redesigned
 
+
+**Screenshots**
+![homepage](https://i.postimg.cc/MTrL9t6P/homepage.png)
+
+![homepage](https://i.postimg.cc/hvz56xhS/watch-2.jpg)
+
+
 ## Project setup
 ```
 npm install
